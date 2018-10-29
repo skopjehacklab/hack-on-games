@@ -1,20 +1,36 @@
+## hack-on-games
+
 hack-on-games is a repository created mainly for the
 'Hacktoberfest' event.
 
-The idea is to write a game in your favourite programming language.
-The games we choose are:
-    - Hangman
-    - Guess game
-    - Tic-Tac-Toe
-    - Game of life
+The idea is to write a game in your favourite programming language, but we strongly encourage to write it in a language you are not familiar with.
 
-# Contributing
+Two things before starting:
+* Choose a game
+* Choose a programming language
+
+Some of the games we could've think of are:
+
+* Hangman
+* Guess game
+* Tic-Tac-Toe
+* Game of life
+* Rolling the dice
+* Pong
+* Snake
+* Tron
+
+The language is up to you.
+
+## Contributing
 
 Contributing is fairly easy and can be done in few steps:
-- Clone this repo
-- Checkout to a new branch
-- Create a folder under games/<game> with your username on GitHub
-- Write the game, commit, push, create a PR
+* Clone this repo
+* Checkout to a new branch
+* Create a folder under games/<game> with your username on GitHub
+* Write the game, commit, push, create a PR
+* If your game is not finished, mark the PR with [WIP] in the
+title, as well as 'DO NOT MERGE' label.
 
 We strongly encourage writing a game in a language you are not familiar with.
 
