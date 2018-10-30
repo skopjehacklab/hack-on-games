@@ -15,7 +15,7 @@ Some of the games we could've think of are:
 * Guess game
 * Tic-Tac-Toe
 * Game of life
-* Rolling the dice
+* ~Rolling the dice~
 * Pong
 * Snake
 * Tron
